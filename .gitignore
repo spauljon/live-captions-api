@@ -28,3 +28,7 @@ npm-debug.log*
 
 # TypeScript cache
 *.tsbuildinfo
+
+# qr codes
+*.png
+*.svg
